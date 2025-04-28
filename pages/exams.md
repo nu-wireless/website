@@ -16,14 +16,13 @@ There are three amateur radio license classes in the US: Technician, General, an
 
 The exam format is multiple choice, and there are more questions depending on the license you're trying to obtain. The technician license is the easiest, and we recommend you study for all of the exams using the [Hamstudy.org website](https://ham.study).
 
-## What Should I Bring to the Exam?
+## What should I bring to the exam?
 
-The exam is administered electronically, so you must bring a laptop. A calculator is also allowed, but you must clear the memory before the exam. You are also encouraged to bring scratch paper and a writing utensil.
+The exam is administered electronically, so you must bring a **laptop**. A calculator is also allowed, but you must clear the memory before the exam. You are also encouraged to bring scratch paper and a writing utensil.
 
 ## Upcoming Exams
 
 We generally hold exams on the third Thursday of each month from 6 to 7pm. Please sign up for the exam you wish to take below.
 
-<a href="https://ham.study/sessions/6792db21c852fd7cf08008de/1" class="retro-button">Jan 30 @6PM</a>
-<a href="https://ham.study/sessions/6792dcb8ccfc8c80d04ae2e3/1" class="retro-button">Feb 27 @6PM</a>
-<a href="https://ham.study/sessions/67990209983627f1b5bc12ee/1" class="retro-button">Mar 27 @6PM</a>
+<a href="https://ham.study/sessions/680febe1c96ea4ceeee5ac32/1" class="retro-button">May 8 @6PM</a>
+<a href="https://ham.study/sessions/680fee90c96ea4dd2ae5b9a8/1" class="retro-button">June 12 @6PM</a>

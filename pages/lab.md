@@ -13,7 +13,7 @@ The Wireless Club lab is a space made for electronics experimentation and ham ra
 Our lab is located at Hayden Hall 503. The easiest way to find it is to take the elevator in the main entrance (east facing) to the 4th floor. Walk left to the second staircase you see, and take that up to the 5th floor. Our lab is on the right at the top of the stairs. If you have trouble finding it, just send a message on slack and we'll help you!
 
 ## What's in the lab?
-Below is a small listing of some of the equipment we have in the lab. This is by no means exhaustive, and we're always looking to add more tools and supplies to our space. If you have any suggestions, please let our EBoard know!
+Below is a small listing of some of the equipment we have in the lab. This is by no means exhaustive, and we're always looking to add more tools and supplies to our space. If you have any suggestions, please let our officers know!
 
 ### Electronics Test Equipment
 - Oscilloscopes

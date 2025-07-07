@@ -21,5 +21,5 @@ For general inquiries, please email us at `info at nuwireless.org`.
 | Lab Manager | Myles Spring KD3ASZ | `lab at nuwireless.org` |
 | Outreach Coordinator | Garrett Compston KW1RM | `outreach at nuwireless.org` |
 | Outreach Coordinator | Vin Rossi KO6HUI | `outreach at nuwireless.org` |
-| Workshop Organizer | Muhammad Elarbi | `workshops at nuwireless.org` |
+| Workshop Leader | Muhammad Elarbi KC1WTC | `workshops at nuwireless.org` |
 | Treasurer | Maggie Heaney KC1TOQ | `treasurer at nuwireless.org` |

@@ -17,9 +17,9 @@ For general inquiries, please email us at `info at nuwireless.org`.
 |----------|------|-------|
 | President | Vladyslav Aviedov N1GNU | `president at nuwireless.org` |
 | Vice President | Faith Degawa KQ4YAU | `vp at nuwireless.org` |
-| Lab Manager | Leo Norton KF0PQB | `lab at nuwireless.org` |
-| Lab Manager | Myles Spring KD3ASZ | `lab at nuwireless.org` |
+| Lab Manager | Jonah Lefkoff K0RG | `lab at nuwireless.org` |
 | Outreach Coordinator | Garrett Compston KW1RM | `outreach at nuwireless.org` |
 | Outreach Coordinator | Vin Rossi KO6HUI | `outreach at nuwireless.org` |
 | Workshop Leader | Muhammad Elarbi KC1WTC | `workshops at nuwireless.org` |
+| Workshop Leader | Tyler Von Pervieux K0NX | `workshops at nuwireless.org` |
 | Treasurer | Maggie Heaney KC1TOQ | `treasurer at nuwireless.org` |

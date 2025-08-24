@@ -31,20 +31,19 @@ We meet every Thursday at **7 PM** in our lab space in **Hayden Hall, Room 503**
 | Date         | Topic                                                                                                     | Speaker |
 |--------------|-----------------------------------------------------------------------------------------------------------|---------|
 | Sep 4, 2025  | Kickoff / Open House!                                                                                     | N/A     |
-| Sep 11, 2025 | TBA                                                                                                       | TBA     |
-| Sep 18, 2025 | TBA                                                                                                       | TBA     |
-| Sep 25, 2025 | TBA                                                                                                       | TBA     |
+| Sep 11, 2025 | Emergency Communications                                                                                  | Joe Chapman NV1W |
+| Sep 18, 2025 | Yagi Antenna Fox Hunt Outing                                                                              | N/A     |
+| Sep 25, 2025 | Parks On The Air &reg; ([POTA](https://parksontheair.com/))                                                | Steven KC1UBT |
 | Oct 2, 2025  | TBA                                                                                                       | TBA     |
 | Oct 9, 2025  | TBA                                                                                                       | TBA     |
-| Oct 16, 2025 | TBA                                                                                                       | TBA     |
-| Oct 23, 2025 | Intro to Soldering (Through-hole); [School Club Roundup](https://www.arrl.org/school-club-roundup)        | N/A     |
-| Oct 30, 2025 | TBA                                                                                                       | TBA     |
+| Oct 16, 2025 | [Workshop](/workshop): Intro to Soldering (Through-hole) (in Hayden Hall, Room 503)                                              | Muhammad Elarbi KC1WTC, Tyler Von Pervieux K0NX, Robert Halpern KE2EGT	     |
+| Oct 23, 2025 | [School Club Roundup](https://www.arrl.org/school-club-roundup) radio contesting                          | N/A     |
+| Oct 30, 2025 | Ham Radio Halloween                                                                                       | N/A     |
 | Nov 6, 2025  | TBA                                                                                                       | TBA     |
 | Nov 13, 2025 | TBA                                                                                                       | TBA     |
-| Nov 20, 2025 | TBA                                                                                                       | TBA     |
-| Nov 27, 2025 | No Meeting (Thanksgiving Break)                                                                           | N/A     |
-| Dec 4, 2025  | TBA                                                                                                       | TBA     |
-| Dec 11, 2025 | Elections and Brownie Bake-off (TBD)                                                                      | N/A     |
+| Nov 20, 2025 | Nominations; Showcase Showdown                                                                            | N/A     |
+| Nov 27, 2025 | **No Meeting (Thanksgiving Break)**                                                                           | N/A     |
+| Dec 4, 2025  | Elections; Brownie Bake-off                                                                            | N/A     |
 
 </div>
 

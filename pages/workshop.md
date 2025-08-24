@@ -16,11 +16,11 @@ description: Learn about our weekly workshops!
 
 # Workshops
 
-Every Monday in ****TBA****, we have a workshop run in conjunction with the [Electric Racing](https://electricracing.northeastern.edu/) and [IEEE](https://coe.northeastern.edu/orgs/ieee-institute-of-electrical-and-electronics-engineers-nu-student-chapter/) clubs. These workshops are a carefully curated set of topics we believe students need to know to be successful in their engineering careers, but aren't typically taught in class.
+Every Monday (**time and location TBA**), we run a workshop series covering carefully selected topics we believe students need for success in engineering, but that aren’t typically taught in class.
 
 Below is this semester’s schedule, with dates and short descriptions. Absolutely no experience is required. Please sign up!
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSecnBIPUYOJV_P8LAFTMhFfYXSi4sqPgH43VaIjzk_JeR1mbQ/viewform?usp=sharing" class="retro-button">SIGN UP HERE</a>
+<a href="https://forms.gle/xKhn3seDVMgd9UUY9" class="retro-button">SIGN UP FOR WORKSHOPS</a>
 
 ## This Semester's Schedule (Fall 2025)
 
@@ -31,11 +31,12 @@ Below is this semester’s schedule, with dates and short descriptions. Absolute
 | Sep 29, 2025 | SPICE Circuit Simulation (LTspice) |
 | Oct 6, 2025  | PCB Design (KiCad) |
 | Oct 13, 2025 | No Workshop (Holiday) |
+| Oct 16, 2025 | Intro to Soldering (Through-hole) (in Hayden Hall, Room 503) |
 | Oct 20, 2025 | Intro to Soldering (Through-hole) |
-| Oct 23, 2025 | Intro to Soldering (Through-hole) (in Hayden Hall, Room 503) |
 | Oct 27, 2025 | Advanced Soldering (Surface-mount) |
 | Nov 3, 2025  | Intro to Git |
 | Nov 10, 2025 | LaTeX |
+| Nov 17, 2025 | Special Topic Workshop (Collaboration w/ IEEE) |
 
 ## Workshop Descriptions
 

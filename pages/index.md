@@ -30,10 +30,7 @@ Want to become a licensed amateur radio operator? We host **free** Amateur Radio
 
 ## Workshops
 
-Every Monday during the semester, we host hands-on technical workshops, covering topics in electronics, soldering, amateur radio, and more.  
-Our Fall 2025 schedule will be announced soon, including the location and time! 
-
-Workshops are run in collaboration with the [Electric Racing](https://electricracing.northeastern.edu/) and [IEEE](https://coe.northeastern.edu/orgs/ieee-institute-of-electrical-and-electronics-engineers-nu-student-chapter/) student organizations. Check out the page below for more details and archives of past sessions.
+Every Monday during the semester, we host hands-on technical workshops covering electronics, soldering, amateur radio, and more. Our Fall 2025 schedule is posted. See the page below for details, plus archives of past sessions and schedules. Location and time for Fall 2025 are **TBA**.
 
 <a href="/workshop" class="retro-button">Workshop Details</a>
 

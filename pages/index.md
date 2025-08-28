@@ -30,7 +30,8 @@ Want to become a licensed amateur radio operator? We host **free** Amateur Radio
 
 ## Workshops
 
-Every Monday during the semester, we host hands-on technical workshops covering electronics, soldering, amateur radio, and more. Our Fall 2025 schedule is posted. See the page below for details, plus archives of past sessions and schedules. Location and time for Fall 2025 are **TBA**.
+Every Monday during the semester at **7:10 PM in Forsyth Building, Room 236**, we host hands-on technical workshops covering electronics, soldering, amateur radio, and more.  
+Our Fall 2025 schedule is posted. See the page below for details, plus archives of past sessions and schedules.
 
 <a href="/workshop" class="retro-button">Workshop Details</a>
 

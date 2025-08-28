@@ -16,7 +16,8 @@ description: Learn about our weekly workshops!
 
 # Workshops
 
-Every Monday (**time and location TBA**), we run a workshop series covering carefully selected topics we believe students need for success in engineering, but that aren’t typically taught in class.
+Every Monday at **7:10 PM in Forsyth Building, Room 226**, we run a workshop series covering carefully selected topics we believe students need for success in engineering, but that aren’t typically taught in class.
+
 <div class = "note">
 Note: Workshops are held on Mondays <strong>unless otherwise noted</strong> in the schedule below.
 </div>

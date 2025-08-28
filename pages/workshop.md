@@ -17,26 +17,28 @@ description: Learn about our weekly workshops!
 # Workshops
 
 Every Monday (**time and location TBA**), we run a workshop series covering carefully selected topics we believe students need for success in engineering, but that aren’t typically taught in class.
-
+<div class = "note">
+Note: Workshops are held on Mondays <strong>unless otherwise noted</strong> in the schedule below.
+</div>
 Below is this semester’s schedule, with dates and short descriptions. Absolutely no experience is required. Please sign up!
 
 <a href="https://forms.gle/xKhn3seDVMgd9UUY9" class="retro-button">SIGN UP FOR WORKSHOPS</a>
 
 ## This Semester's Schedule (Fall 2025)
 
-| Date         | Topic |
-|--------------|-------|
-| Sep 15, 2025 | Tape Measure Yagi Antenna (Ham Radio Intro) |
-| Sep 22, 2025 | Schematic Capture |
-| Sep 29, 2025 | SPICE Circuit Simulation (LTspice) |
-| Oct 6, 2025  | PCB Design (KiCad) |
-| Oct 13, 2025 | No Workshop (Holiday) |
-| Oct 16, 2025 | Intro to Soldering (Through-hole) (in Hayden Hall, Room 503) |
-| Oct 20, 2025 | Intro to Soldering (Through-hole) |
-| Oct 27, 2025 | Advanced Soldering (Surface-mount) |
-| Nov 3, 2025  | Intro to Git |
-| Nov 10, 2025 | LaTeX |
-| Nov 17, 2025 | Special Topic Workshop (Collaboration w/ IEEE) |
+| Day | Date         | Topic |
+|-----|--------------|-------|
+| Monday | Sep 15, 2025 | Tape Measure Yagi Antenna (Ham Radio Intro) |
+| Monday | Sep 22, 2025 | Schematic Capture |
+| Monday | Sep 29, 2025 | SPICE Circuit Simulation (LTspice) |
+| Monday | Oct 6, 2025  | PCB Design (KiCad) |
+| Monday | Oct 13, 2025 | **No Workshop (Holiday)** |
+| **Thursday** | Oct 16, 2025 | Intro to Soldering (Through-hole) (**in Hayden Hall, Room 503**) |
+| Monday | Oct 20, 2025 | Intro to Soldering (Through-hole) |
+| Monday | Oct 27, 2025 | Advanced Soldering (Surface-mount) |
+| Monday | Nov 3, 2025  | Intro to Git |
+| Monday | Nov 10, 2025 | LaTeX |
+| Monday | Nov 17, 2025 | Special Topic Workshop (Collaboration w/ IEEE Northeastern) |
 
 ## Workshop Descriptions
 
@@ -63,7 +65,6 @@ Version control made easy.  Learn what [Git](https://git-scm.com/) is and how to
 
 ### LaTeX
 Learn [LaTeX](https://www.latex-project.org/) (pronounced "Lah-tech" or "Lay-tech"), the typesetting system that engineers, scientists, and academics use to create professional documents, papers, and presentations.
-
 
 ### Embedded Development
 Embedded devices are everywhere today. In this workshop you will implement some simple code on a wireless club custom embedded board using a variety of protocols.

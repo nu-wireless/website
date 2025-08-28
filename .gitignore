@@ -107,6 +107,9 @@ Thumbs.db
 *.key
 *.pem
 
+# ignore scratch files and experiments (local only)
+scratch-files/
+
 # --------------------------------------------------------
 # BEGIN Explictly Allowed Files (i.e. do NOT ignore these)
 # --------------------------------------------------------

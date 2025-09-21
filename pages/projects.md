@@ -73,7 +73,7 @@ with the help of the Wireless makerspace.
   }
 </style>
 
-<!-- Garett: transistor radio -->
+<!-- Garett: Transistor Radio -->
 <div class="projects-grid">
   <div class="project-card">
     <h3>1953 Transistor Radio Restoration</h3>
@@ -194,6 +194,35 @@ with the help of the Wireless makerspace.
     </ul>
     <div class="links">
       <a href="https://drive.google.com/drive/folders/1KQmbQPp8y7mujrNOUAkkHxByyjtLaxUS?usp=sharing" target="_blank"
+        rel="noopener">Project Album</a>
+    </div>
+  </div>
+
+  <!-- Muhammad: 40m Woodpecker -->
+  <div class="project-card">
+    <h3>40-meter Woodpecker (CW transceiver)</h3>
+    <div class="byline">by Muhammad Elarbi (KC1WTC)</div>
+    <a href="/img/projects/muhammad/40m-woodpecker/40m-woodpecker.webp" target="_blank">
+      <img src="/img/projects/muhammad/40m-woodpecker/40m-woodpecker.webp"
+        alt="Partially built 40-meter Woodpecker CW transceiver kit. The green circuit board is mounted in a PCB vise, with most components soldered on, including capacitors, resistors, and ICs.">
+    </a>
+    <p>
+      The 40m Woodpecker is a low-power CW transceiver kit for the 40-meter band.
+      It uses a direct-conversion receiver with a tunable bandpass filter, audio shaping, and muting,
+      paired with a simple two-stage transmitter with sidetone and QSK.
+      Output is about half a watt. This build is still in progress and is being developed
+      to support curriculum design for Professor Farhat’s Wireless Communication Circuits course (EECE 4574).
+    </p>
+    <div class="helped">How NU Wireless helped</div>
+    <ul>
+      <li>Comfortable lab space with 24/7 access, especially useful for late-night soldering.</li>
+      <li>Soldering stations and tools.</li>
+      <li>Test equipment for circuit debugging and measurements.</li>
+      <li>Extra components and replacements (e.g. jumpers, capacitors) that not only filled in for a couple of missing
+        parts but also let me go beyond the standard kit build, making the wiring and layout much cleaner.</li>
+    </ul>
+    <div class="links">
+      <a href="https://drive.google.com/drive/folders/1n0t_OPANBi4KNfIC-WQKk6QxyEei0qI5?usp=sharing" target="_blank"
         rel="noopener">Project Album</a>
     </div>
   </div>

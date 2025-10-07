@@ -96,7 +96,7 @@ Below are previous officer boards by semester and year.
 | Vice President | Garrett Compston KW1RM
 | Treasurer | Jake Ginesin KC3UTS |
 | Lab Manager | Leo Norton KF0PQB |
-| Workshop Lead | Muhammad Elarbi KC1WTC |
+| Workshop Lead | Muhammad Elarbi |
 | Workshop Organizer | Maggie Heaney KC1TOQ |
 | Workshop Organizer | Vladyslav Aviedov N1GNU |
 | Ham Guru | Jacy Hoffmann KC1SZV|
@@ -113,7 +113,7 @@ Below are previous officer boards by semester and year.
 | Vice President | Garrett Compston KW1RM |
 | Treasurer | Jake Ginesin KC3UTS |
 | Lab Manager | Collin McKinley KC1TIZ |
-| Workshop Lead | Muhammad Elarbi KC1WTC |
+| Workshop Lead | Muhammad Elarbi |
 | Workshop Organizer | Maggie Heaney KC1TOQ |
 | Workshop Organizer | Vladyslav Aviedov KC1TNB (now N1GNU) |
 | Ham Guru | Jacy Hoffmann KC1SZV|

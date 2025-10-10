@@ -34,10 +34,10 @@ We meet every Thursday at **7 PM** in our lab space in **Hayden Hall, Room 503**
 | Sep 11, 2025 | Emergency Communications  | [Joe Chapman](https://ema.arrl.org/joe-chapman-nv1w/) NV1W (Eastern Massachusetts ARES) |
 | Sep 18, 2025 | Yagi Antenna Fox Hunt Outing                                                                              | N/A     |
 | Sep 25, 2025 | Parks on the Air &reg; ([POTA](https://parksontheair.com/))                                               | Steven KC1UBT |
-| Oct 2, 2025  | TBA                                                                                                       | TBA     |
-| Oct 9, 2025  | TBA                                                                                                       | TBA     |
-| Oct 16, 2025 | [Workshop](/workshop): Intro to Soldering (Through-hole) (in Hayden Hall, Room 503)                                                        | Muhammad Elarbi KC1WTC, Tyler Von Pervieux K0NX, Robert Halpern KE2EGT |
-| Oct 23, 2025 | [School Club Roundup](https://www.arrl.org/school-club-roundup) radio contesting                          | N/A     |
+| Oct 2, 2025  | Radio Waves 101                                                                                           | Faith KQ4YAU     |
+| Oct 9, 2025  | Zero Power Radio                                                                                          | Prof. Amir Farhat     |
+| Oct 16, 2025 | [Workshop](/workshop): Intro to Soldering (Through-hole) (in Hayden Hall, Room 503)                       | Muhammad Elarbi KC1WTC, Tyler Von Pervieux K0NX, Robert Halpern KE2EGT |
+| Oct 23, 2025 | [School Club Roundup](https://www.arrl.org/school-club-roundup) radio contesting                          | Jonah K0RG     |
 | Oct 30, 2025 | Ham Radio Halloween                                                                                       | N/A     |
 | Nov 6, 2025  | TBA                                                                                                       | TBA     |
 | Nov 13, 2025 | TBA                                                                                                       | TBA     |

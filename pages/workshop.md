@@ -52,8 +52,8 @@ up!
 | **Thursday** | Oct 16, 2025 | Intro to Soldering (Through-hole) (**in Hayden Hall, Room 503**) |
 | Monday | Oct 20, 2025 | Intro to Soldering (Through-hole) |
 | Monday | Oct 27, 2025 | Advanced Soldering (Surface-mount) |
-| Monday | Nov 3, 2025 | Intro to Git |
-| Monday | Nov 10, 2025 | LaTeX |
+| Monday | Nov 3, 2025 | LaTeX |
+| Monday | Nov 10, 2025 | Intro to Git |
 | Monday | Nov 17, 2025 | Special Topic Workshop (Collaboration w/ IEEE Northeastern) |
 
 ## Workshop Descriptions

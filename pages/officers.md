@@ -32,14 +32,16 @@ To arrange a visit, please email `info at nuwireless.org`. Extra advance notice 
 
 | Position | Name | Email |
 |----------|------|-------|
-| President | Vladyslav Aviedov N1GNU | `president at nuwireless.org` |
+| Co-President | Vladyslav Aviedov N1GNU | `president at nuwireless.org` |
+| Co-President | Leo Norton KF0PQB | `president at nuwireless.org` |
 | Vice President | Faith Degawa KQ4YAU | `vp at nuwireless.org` |
-| Treasurer | Maggie Heaney KC1TOQ | `treasurer at nuwireless.org` |
-| Lab Manager | Myles Spring K3MSC | `lab at nuwireless.org` |
-| Workshop Lead | Muhammad Elarbi KC1WTC | `workshops at nuwireless.org` |
-| Workshop Organizer | Tyler Von Pervieux K0NX | `workshops at nuwireless.org` |
+| Lab Manager | Jayden Chen N0CALL | `lab at nuwireless.org` |
+| Outreach Coordinator | Vin Rossi W2VIN | `outreach at nuwireless.org` |
+| HAM Guru | Steven Zhang KC1UBT | `ham at nuwireless.org` |
+| Workshop Organizer | Muhammad Elarbi KC1WTC | `workshops at nuwireless.org` |
 | Workshop Organizer | Robert Halpern KE2EGT | `workshops at nuwireless.org` |
-| Outreach Coordinator | Vin Rossi KO6HUI | `outreach at nuwireless.org` |
+| Workshop Organizer | Emile Sater N0CALL | `workshops at nuwireless.org` |
+| Treasurer | Scott Abramson KC1WGF | `treasurer at nuwireless.org` |
 
 ---
 
@@ -54,6 +56,20 @@ Below are previous officer boards by semester and year.
   updated
   callsign is shown.
 </div>
+
+<details open>
+  <summary><strong>Fall, 2025</strong></summary>
+
+| Position | Name |
+|----------|------|
+| President | Vladyslav Aviedov N1GNU |
+| Vice President | Faith Degawa KQ4YAU |
+| Treasurer | Maggie Heaney KC1TOQ |
+| Lab Manager | Myles Spring K3MSC |
+| Workshop Organizer | Muhammad Elarbi KC1WTC |
+| Workshop Organizer | Tyler Von Pervieux K0NX |
+| Workshop Organizer | Robert Halpern KE2EGT |
+| Outreach Coordinator | Vin Rossi KO6HUI |
 
 <details open>
   <summary><strong>Summer 2, 2025</strong></summary>

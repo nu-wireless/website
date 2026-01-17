@@ -38,7 +38,6 @@ To arrange a visit, please email `info at nuwireless.org`. Extra advance notice 
 | Lab Manager | Jayden Chen N0CALL | `lab at nuwireless.org` |
 | Outreach Coordinator | Vin Rossi W2VIN | `outreach at nuwireless.org` |
 | HAM Guru | Steven Zhang KC1UBT | `ham at nuwireless.org` |
-| Workshop Organizer | Muhammad Elarbi KC1WTC | `workshops at nuwireless.org` |
 | Workshop Organizer | Robert Halpern KE2EGT | `workshops at nuwireless.org` |
 | Workshop Organizer | Emile Sater N0CALL | `workshops at nuwireless.org` |
 | Treasurer | Scott Abramson KC1WGF | `treasurer at nuwireless.org` |

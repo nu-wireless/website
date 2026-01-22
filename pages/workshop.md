@@ -22,17 +22,16 @@ Keep tables flush-left. Do not auto-format as HTML, or tables will break. -->
 
 # Workshops
 
-Every Monday at **7:10 PM in Forsyth Building, Room 236**, we run a workshop series covering carefully selected topics
+Every Monday at **7:00 PM in the Snell Library Classrooms (Basement), Room 012**, we run a workshop series covering carefully selected topics
 we believe students need for success in engineering, but that aren’t typically taught in class.
 
 <div class="note">
-  Note: Workshops are held on Mondays <strong>unless otherwise noted</strong> in the schedule below. Need directions to
-  Forsyth? Here’s a
+  Note: Workshops are held on Mondays <strong>unless otherwise noted</strong> in the schedule below. 
+  <!-- Need directions to Forsyth? Here’s a
   <a href="https://experience.arcgis.com/experience/b24181de18b74d20a369865de2a44ef3/page/Boston-Campus#data_s=id%3AdataSource_2-3005265fd1f5436e818ca3fa0985b7a3%3A9"
     target="_blank" rel="noopener">Boston campus map link pre-loaded for Forsyth</a>.
-</div>
-Below is this semester’s schedule, with dates and short descriptions. Absolutely no experience is required. Please sign
-up!
+</div> -->
+Below is this semester’s schedule, with dates and short descriptions. Absolutely no experience is required, and all students are welcome. Please sign up!
 
 <a href="https://forms.gle/xKhn3seDVMgd9UUY9" class="retro-button">SIGN UP FOR WORKSHOPS</a>
 
@@ -40,20 +39,20 @@ up!
 
 | Location | Time |
 |----------------------------|---------|
-| Forsyth Building, Room 236 | 7:10 PM |
+| Snell Library Classrooms, Room 012 | 7:00 PM |
 
 | Day | Date | Topic |
 |-----|--------------|-------|
-| Monday | Sep 15, 2025 | Tape Measure Yagi Antenna (Ham Radio Intro) |
-| Monday | Sep 22, 2025 | Schematic Capture |
-| Monday | Sep 29, 2025 | SPICE Circuit Simulation (LTspice) |
-| Monday | Oct 6, 2025 | PCB Design (KiCad) |
-| Monday | Oct 13, 2025 | **No Workshop (Holiday)** |
-| **Thursday** | Oct 16, 2025 | Intro to Soldering (Through-hole) (**in Hayden Hall, Room 503**) |
-| Monday | Oct 20, 2025 | Intro to Soldering (Through-hole) |
-| Monday | Oct 27, 2025 | Advanced Soldering (Surface-mount) |
-| Monday | Nov 3, 2025 | LaTeX |
-| Monday | Nov 10, 2025 | Intro to Git |
+| Monday | Jan 26, 2025 | Tape Measure Yagi Antenna (Ham Radio Intro) |
+| Monday | Feb 02, 2025 | Schematic Capture (KiCad) |
+| Monday | Feb 09, 2025 | SPICE Circuit Simulation (LTspice) |
+| Monday | Feb 16, 2025 | **No Workshop (Holiday)** |
+| Monday | Feb 23, 2025 | PCB Design (KiCad) |
+| Monday | Mar 09, 2025 | Intro to Soldering (Through-hole) |
+| **Thursday** | Mar 12, 2025 | Intro to Soldering (Through-hole) (**in Hayden Hall, Room 503**) |
+| Monday | Mar 16, 2025 | Advanced Soldering (Surface-mount) |
+| Monday | Mar 23, 2025 | Embedded Design & Digital Logic |
+| Monday | Mar 30, 2025 | Intro to Git |
 
 ## Workshop Descriptions
 
@@ -124,6 +123,29 @@ Use the accordions below to browse past semesters and explore what we’ve cover
   re-indent tables by 4 spaces. This breaks them, rendering them as
   code blocks instead of tables. Keep tables flush-left.
 -->
+
+<details open>
+    <summary><strong>Fall 2025</strong></summary>
+
+| Location | Time |
+|----------------------------|---------|
+| Forsyth Building, Room 236 | 7:10 PM |
+
+| Day | Date | Topic |
+|-----|--------------|-------|
+| Monday | Sep 15, 2025 | Tape Measure Yagi Antenna (Ham Radio Intro) |
+| Monday | Sep 22, 2025 | Schematic Capture |
+| Monday | Sep 29, 2025 | SPICE Circuit Simulation (LTspice) |
+| Monday | Oct 6, 2025 | PCB Design (KiCad) |
+| Monday | Oct 13, 2025 | **No Workshop (Holiday)** |
+| **Thursday** | Oct 16, 2025 | Intro to Soldering (Through-hole) (**in Hayden Hall, Room 503**) |
+| Monday | Oct 20, 2025 | Intro to Soldering (Through-hole) |
+| Monday | Oct 27, 2025 | Advanced Soldering (Surface-mount) |
+| Monday | Nov 3, 2025 | LaTeX |
+| Monday | Nov 10, 2025 | Intro to Git |
+
+</details open>
+
 <details open>
     <summary><strong>Spring 2025</strong></summary>
 

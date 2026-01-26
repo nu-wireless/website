@@ -32,8 +32,7 @@ we believe students need for success in engineering, but that aren’t typically
     target="_blank" rel="noopener">Boston campus map link pre-loaded for Forsyth</a>.
 </div> -->
 Below is this semester’s schedule, with dates and short descriptions. Absolutely no experience is required, and all students are welcome. Please sign up!
-
-<a href="https://forms.gle/xKhn3seDVMgd9UUY9" class="retro-button">SIGN UP FOR WORKSHOPS</a>
+<a href="https://forms.gle/kJefopqik9ikPc518" class="retro-button">SIGN UP FOR WORKSHOPS</a>
 
 ## This Semester's Schedule (Fall 2025)
 

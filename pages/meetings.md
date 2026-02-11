@@ -24,9 +24,43 @@ We meet every Thursday at **7 PM** in our lab space in **Hayden Hall, Room 503**
 > Note: Our **weekly meetings are on Thursdays**. We also run **workshops on Mondays** (unless otherwise noted), and other events that appear on the club [calendar](https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showNav=0&title=Wireless%20Club%20Events&mode=AGENDA&showDate=0&showTabs=0&showTz=0&src=Y18xOWIwM2YyODAyNGNiMjNmZWY5NzhkYmU2Y2JhYzM4NWRmYjgxNjVhZDRjOTA2YmM2NjQwNDYzN2IzODg0NmY4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F4511E).
 
 ---
-## This semester's schedule (Fall 2025)
+## This semester's schedule (Spring 2026)
 
 <div class="current-meetings">
+
+| Date         | Topic                                                                                                     | Speaker |
+|--------------|-----------------------------------------------------------------------------------------------------------|---------|
+| Jan 8, 2026  | Kickoff / Open House!                                                                                     | Leo KF0PQB, Vlad N1GNU |
+| Jan 22, 2026 | Technician Bucket List | [Joe Chapman](https://ema.arrl.org/joe-chapman-nv1w/) NV1W (Eastern Massachusetts ARES) |
+| Jan 29, 2026 | Yagi Antenna Fox Hunt Outing                                                                              | N/A |
+| Feb 5, 2026  | [School Club Roundup](https://www.arrl.org/school-club-roundup) radio contesting                          | Leo KF0PQB, Vlad N1GNU |
+| Feb 12, 2026 | Radio Waves 101                                                                                           | Faith KQ4YAU |
+| Feb 19, 2026 | Making Radio Waves Useful (Modulation)                                                                    | Vlad N1GNU |
+| Feb 26, 2026 | Electronic Warfare                                                                                        | Scott N0CALL |
+| Mar 5, 2026  | **No Meeting (Spring Break)**                                                                             | N/A |
+| Mar 12, 2026 | [Workshop](/workshop): Intro Soldering (Through-hole) (Hayden Hall, Rm. 503)                              | Robert KE2EGT, Emile N0CALL |
+| Mar 19, 2026 | TBA                                                                                                       | TBA     | 
+| Mar 26, 2026 | TBA                                                                                                       | TBA     | 
+| Apr 2, 2026  | Parks on the Air &reg; ([POTA](https://parksontheair.com/))                                               | Steven KC1UBT |
+| Apr 16, 2025 | Nominations; Showcase Showdown                                                                            | N/A |
+| Apr 4, 2025  | Elections; Brownie Bake-off                                                                               | N/A |
+
+</div>
+
+---
+# Past Meetings and Schedules
+
+Below is a selection of meeting presentations and semester schedules from previous years. Use the accordions below to browse past semesters and explore what we’ve covered. As you can see, our topics span a wide range of interests and expertise.
+
+<div class="past-meetings">
+<!-- ==========================================================
+  NOTE: Using <details> to keep past semesters collapsible.
+  Keep 'open' while editing or during launch if helpful, and
+  remove 'open' later to keep the page shorter.
+========================================================== -->
+
+<details open>
+  <summary><strong>Fall 2025 (Schedule)</strong></summary>
 
 | Date         | Topic                                                                                                     | Speaker |
 |--------------|-----------------------------------------------------------------------------------------------------------|---------|
@@ -45,19 +79,10 @@ We meet every Thursday at **7 PM** in our lab space in **Hayden Hall, Room 503**
 | Nov 27, 2025 | **No Meeting (Thanksgiving Break)**                                                                       | N/A     |
 | Dec 4, 2025  | Elections; Brownie Bake-off                                                                               | N/A     |
 
-</div>
+</details>
 
----
-# Past Meetings and Schedules
 
-Below is a selection of meeting presentations and semester schedules from previous years. Use the accordions below to browse past semesters and explore what we’ve covered. As you can see, our topics span a wide range of interests and expertise.
 
-<div class="past-meetings">
-<!-- ==========================================================
-  NOTE: Using <details> to keep past semesters collapsible.
-  Keep 'open' while editing or during launch if helpful, and
-  remove 'open' later to keep the page shorter.
-========================================================== -->
 
 <details open>
   <summary><strong>Spring 2025 (Schedule)</strong></summary>

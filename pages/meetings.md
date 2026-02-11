@@ -42,8 +42,8 @@ We meet every Thursday at **7 PM** in our lab space in **Hayden Hall, Room 503**
 | Mar 19, 2026 | TBA                                                                                                       | TBA     | 
 | Mar 26, 2026 | TBA                                                                                                       | TBA     | 
 | Apr 2, 2026  | Parks on the Air &reg; ([POTA](https://parksontheair.com/))                                               | Steven KC1UBT |
-| Apr 16, 2025 | Nominations; Showcase Showdown                                                                            | N/A |
-| Apr 4, 2025  | Elections; Brownie Bake-off                                                                               | N/A |
+| Apr 9, 2025 | Nominations; Showcase Showdown                                                                             | N/A |
+| Apr 16, 2025  | Elections; Brownie Bake-off                                                                              | N/A |
 
 </div>
 

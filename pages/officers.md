@@ -35,7 +35,7 @@ To arrange a visit, please email `info at nuwireless.org`. Extra advance notice 
 | Co-President | Vladyslav Aviedov N1GNU | `president at nuwireless.org` |
 | Co-President | Leo Norton KF0PQB | `president at nuwireless.org` |
 | Vice President | Faith Degawa KQ4YAU | `vp at nuwireless.org` |
-| Lab Manager | Jayden Chen N0CALL | `lab at nuwireless.org` |
+| Lab Manager | Jayden Chen KC1YXS | `lab at nuwireless.org` |
 | Outreach Coordinator | Vin Rossi W2VIN | `outreach at nuwireless.org` |
 | HAM Guru | Steven Zhang KC1UBT | `ham at nuwireless.org` |
 | Workshop Organizer | Robert Halpern KE2EGT | `workshops at nuwireless.org` |

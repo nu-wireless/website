@@ -49,7 +49,6 @@ Below is this semester’s schedule, with dates and short descriptions. Absolute
 | Monday | Feb 16, 2025 | **No Workshop (Holiday)** |
 | Monday | Feb 23, 2025 | PCB Design (KiCad) |
 | Monday | Mar 09, 2025 | Intro to Soldering (Through-hole) |
-| **Thursday** | Mar 12, 2025 | Intro to Soldering (Through-hole) (**in Hayden Hall, Room 503**) |
 | Monday | Mar 16, 2025 | Advanced Soldering (Surface-mount) |
 | Monday | Mar 23, 2025 | Embedded Design & Digital Logic |
 | Monday | Mar 30, 2025 | Intro to Git |

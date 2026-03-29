@@ -33,9 +33,12 @@ we believe students need for success in engineering, but that aren’t typically
 </div> -->
 Below is this semester’s schedule, with dates and short descriptions. Absolutely no experience is required, and all students are welcome. Please sign up!
 
+
 <a href="https://forms.gle/kJefopqik9ikPc518" class="retro-button">SIGN UP FOR WORKSHOPS</a>
 
 ## This Semester's Schedule (Fall 2025)
+
+Miss a workshop? We'll likely run it again next semester, check back here for updates!
 
 | Location | Time |
 |----------------------------|---------|
@@ -50,8 +53,8 @@ Below is this semester’s schedule, with dates and short descriptions. Absolute
 | Monday | Feb 23, 2025 | PCB Design (KiCad) |
 | Monday | Mar 09, 2025 | Intro to Soldering (Through-hole) |
 | Monday | Mar 16, 2025 | Advanced Soldering (Surface-mount) |
-| Monday | Mar 23, 2025 | Embedded Design & Digital Logic |
-| Monday | Mar 30, 2025 | Intro to Git |
+| Monday | Mar 23, 2025 | Introduction to Git |
+| Monday | Mar 30, 2025 | Embedded Design & Digital Logic |
 
 ## Workshop Descriptions
 

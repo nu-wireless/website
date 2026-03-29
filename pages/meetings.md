@@ -36,12 +36,12 @@ We meet every Thursday at **7 PM** in our lab space in **Hayden Hall, Room 503**
 | Feb 5, 2026  | [School Club Roundup](https://www.arrl.org/school-club-roundup) radio contesting                          | Leo KF0PQB, Vlad N1GNU |
 | Feb 12, 2026 | Radio Waves 101                                                                                           | Faith KQ4YAU |
 | Feb 19, 2026 | Making Radio Waves Useful (Modulation)                                                                    | Vlad N1GNU |
-| Feb 26, 2026 | Electronic Warfare                                                                                        | Scott N0CALL |
+| Feb 26, 2026 | Electronic Warfare                                                                                        | Scott KC1WGF |
 | Mar 5, 2026  | **No Meeting (Spring Break)**                                                                             | N/A |
 | Mar 12, 2026 | [Workshop](/workshop): Intro Soldering (Through-hole) (Hayden Hall, Rm. 503)                              | Robert KE2EGT, Emile N0CALL |
-| Mar 19, 2026 | TBA                                                                                                       | TBA     | 
-| Mar 26, 2026 | TBA                                                                                                       | TBA     | 
-| Apr 2, 2026  | Parks on the Air &reg; ([POTA](https://parksontheair.com/))                                               | Steven KC1UBT |
+| Mar 19, 2026 | Parks on the Air &reg; ([POTA](https://parksontheair.com/))                                               | Steven KC1UBT |
+| Mar 26, 2026 | RF Network Design                                                                                         | Zlatko Bibic     | 
+| Apr 2, 2026  | Radio Astronomy                                                                                           | Professor Tom Consi |
 | Apr 9, 2025 | Nominations; Showcase Showdown                                                                             | N/A |
 | Apr 16, 2025  | Elections; Brownie Bake-off                                                                              | N/A |
 

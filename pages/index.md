@@ -6,7 +6,7 @@ description: Northeastern's club for radio and electronics experimentation
 
 ## Who are we?
 
-![](/img/club-s24.webp)
+![](/img/club-s26.webp)
 
 Founded in 1922, we are Northeastern University’s longest-running student organization! Originally *just* an amateur radio club, we're now so much more. From electronics education through outreach and workshops, to amazing projects and speakers, plus **free** licensing exams, we are Northeastern University's premier electronics experimentation club. [Learn more about our history!](/history/)
 

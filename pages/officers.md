@@ -8,9 +8,8 @@ description: Connect with our club leadership!
 ## Who are we?
 Our club officer board (OBoard) is made up of passionate undergrad and grad students. We're all club members just like
 you, and we're here to help you get the most out of your time with us. If you have any questions, concerns, or ideas,
-please don't hesitate to reach out to us at the info below.
+please don't hesitate to reach out.
 
-## General Contact
 For general inquiries, please email us at `info at nuwireless.org`.
 
 ## Visiting W1KBN
@@ -28,23 +27,25 @@ To arrange a visit, please email `info at nuwireless.org`. Extra advance notice 
   </ul>
 </div>
 
-## OBoard
+
+# Officer Board
+## Summer 2026
 
 | Position | Name | Email |
 |----------|------|-------|
-| Co-President | Vladyslav Aviedov N1GNU | `president at nuwireless.org` |
-| Co-President | Leo Norton KF0PQB | `president at nuwireless.org` |
-| Vice President | Faith Degawa KQ4YAU | `vp at nuwireless.org` |
-| Lab Manager | Jayden Chen KC1YXS | `lab at nuwireless.org` |
-| Outreach Coordinator | Vin Rossi W2VIN | `outreach at nuwireless.org` |
-| HAM Guru | Steven Zhang KC1UBT | `ham at nuwireless.org` |
-| Workshop Organizer | Robert Halpern KE2EGT | `workshops at nuwireless.org` |
-| Workshop Organizer | Emile Sater N0CALL | `workshops at nuwireless.org` |
-| Treasurer | Scott Abramson KC1WGF | `treasurer at nuwireless.org` |
+| President | Robert Halpern, KE2EGT | `president at nuwireless.org` |
+| Vice President | Vin Rossi, W2VIN | `vp at nuwireless.org` |
+| Treasurer | Ly Feng, KJ5PQC | `treasurer at nuwireless.org` |
+| Lab Manager | Sean Gustavson | `lab at nuwireless.org` |
+| Workshop Organizer | Leo Norton, KF0PQB | `workshops at nuwireless.org` |
+| Workshop Organizer | Emile Sater | `workshops at nuwireless.org` |
+| Workshop Organizer | Vivaan Kaushal | `workshops at nuwireless.org` |
+| Ham Guru | Steven Zhang, KC1UBT | `ham at nuwireless.org` |
+| Ham Guru | Jayden Chen, KC1YXS | `ham at nuwireless.org` |
 
 ---
 
-# Past Officers
+## Past Officers
 
 Below are previous officer boards by semester and year.
 <div class="note">
@@ -55,6 +56,27 @@ Below are previous officer boards by semester and year.
   updated
   callsign is shown.
 </div>
+
+
+
+
+<details open>
+  <summary><strong>Spring, 2026</strong></summary>
+
+| Position | Name |
+|----------|------|
+| Co-President | Leo Norton KF0PQB |
+| Co-President | Vladyslav Aviedov N1GNU |
+| Vice President | Faith Degawa KQ4YAU |
+| Treasurer | Scott Abramson KC1WGF |
+| Lab Manager | Jayden Chen KC1YXS |
+| Workshop Organizer | Robert Halpern KE2EGT |
+| Workshop Organizer | Emile Sater N0CALL |
+| Outreach Coordinator | Vin Rossi KO6HUI (now W2VIN) |
+| Ham Guru | Steven Zhang KC1UBT |
+
+
+
 
 <details open>
   <summary><strong>Fall, 2025</strong></summary>

@@ -50,14 +50,13 @@ Miss a workshop? We'll likely run it again next semester, check back here for up
 | Monday | Sep 21, 2026 | Schematic Capture (KiCad) |
 | Monday | Sep 28, 2026 | SPICE Circuit Simulation (LTspice) |
 | Monday | Oct 05, 2026 | PCB Design (KiCad) |
-| Monday | Oct 12, 2026 | **No Workshop (Holiday)** |
-| Monday | Oct 19, 2026 | Intro to Soldering (Through-hole) |
+| Thursday | Oct 15, 2026 | Intro to Soldering (Through-hole) |
+| Monday | Oct 19, 2026 | Intro to Soldering (Through-hole) **Same as Oct 15** |
 | Monday | Oct 26, 2026 | Advanced Soldering (Surface-mount) |
-| Monday | Nov 02, 2026 | Bass Booster (Audio Circuit) |
+| Monday | Nov 02, 2026 | Bass Booster (Audio Circuits) |
 | Monday | Nov 09, 2026 | Tesla Coils |
 | Monday | Nov 16, 2026 | Embedded Design |
 | Monday | Nov 23, 2026 | Radio Transmitters |
-| Monday | Nov 30, 2026 | **Break** |
 
 ## Workshop Descriptions
 

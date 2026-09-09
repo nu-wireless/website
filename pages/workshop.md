@@ -46,15 +46,18 @@ Miss a workshop? We'll likely run it again next semester, check back here for up
 
 | Day | Date | Topic |
 |-----|--------------|-------|
-| Monday | Jan 26, 2025 | Tape Measure Yagi Antenna (Ham Radio Intro) |
-| Monday | Feb 02, 2025 | Schematic Capture (KiCad) |
-| Monday | Feb 09, 2025 | SPICE Circuit Simulation (LTspice) |
-| Monday | Feb 16, 2025 | **No Workshop (Holiday)** |
-| Monday | Feb 23, 2025 | PCB Design (KiCad) |
-| Monday | Mar 09, 2025 | Intro to Soldering (Through-hole) |
-| Monday | Mar 16, 2025 | Advanced Soldering (Surface-mount) |
-| Monday | Mar 23, 2025 | Introduction to Git |
-| Monday | Mar 30, 2025 | Embedded Design & Digital Logic |
+| Monday | Sep 14, 2026 | Yagi Antenna Buid (Ham Radio Intro) |
+| Monday | Sep 21, 2026 | Schematic Capture (KiCad) |
+| Monday | Sep 28, 2026 | SPICE Circuit Simulation (LTspice) |
+| Monday | Oct 05, 2026 | PCB Design (KiCad) |
+| Monday | Oct 12, 2026 | **No Workshop (Holiday)** |
+| Monday | Oct 19, 2026 | Intro to Soldering (Through-hole) |
+| Monday | Oct 26, 2026 | Advanced Soldering (Surface-mount) |
+| Monday | Nov 02, 2026 | Bass Booster (Audio Circuit) |
+| Monday | Nov 09, 2026 | Tesla Coils |
+| Monday | Nov 16, 2026 | Embedded Design |
+| Monday | Nov 23, 2026 | Radio Transmitters |
+| Monday | Nov 30, 2026 | **Break** |
 
 ## Workshop Descriptions
 

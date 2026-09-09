@@ -24,7 +24,6 @@ The exam is administered electronically, so you must bring a **laptop**. A calcu
 
 We generally hold exams on the third Thursday of each month from 6 to 7pm. Please sign up for the exam you wish to take below.
 
-<a href="https://ham.study/sessions/696bfc44fa4754185702856f/1" class="retro-button">January 29 @6PM</a>
-<a href="https://ham.study/sessions/696bfc5f11fb608378ab0de8/1" class="retro-button">February 19 @6PM</a>
-<a href="https://ham.study/sessions/696bfc6b762e006decb3e1e8/1" class="retro-button">March 19 @6PM</a>
-<a href="https://ham.study/sessions/696bfc9e8b953c2fa09099d8/1" class="retro-button">April 16 @6PM</a>
+<a href="https://ham.study/sessions/6aa0c508e66c05c5b1128239/1" class="retro-button">September 24 @6PM</a>
+<a href="https://ham.study/sessions/6aa0c8f6faa4acd4558673e8/1" class="retro-button">October 15 @6PM</a>
+<a href="https://ham.study/sessions/6aa0c9078acc79044b92b0da/1" class="retro-button">November 19 @6PM</a>

@@ -36,9 +36,9 @@ Below is this semester’s schedule, with dates and short descriptions. Absolute
 
 <a href="https://forms.gle/kJefopqik9ikPc518" class="retro-button">SIGN UP FOR WORKSHOPS</a>
 
-## This Semester's Schedule (Fall 2025)
+## This Semester's Schedule (Fall 2026)
 
-Miss a workshop? We'll likely run it again next semester, check back here for updates!
+Miss a workshop? We'll likely run it again next semester. Check back here for updates!
 
 | Location | Time |
 |----------------------------|---------|

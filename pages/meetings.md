@@ -33,7 +33,6 @@ We meet every Thursday at **7 PM** in our lab space in **Hayden Hall, Room 503**
 | Sep 10, 2026 | Kickoff / Open House!                                                                                     | Robert KE2EGT |
 | Sep 17, 2026 | Yagi Antenna Fox Hunt Outing                                                                              
 | Sep 24, 2026 | [School Club Roundup](https://www.arrl.org/school-club-roundup) Radio Contesting                           | Steven KC1UBT  |
-<!-- | Oct 1, 2026  | TBD! (tentative: Parks on the Air &reg; ([POTA](https://parksontheair.com/)))                              | Steven KC1UBT | -->
 | Oct 1, 2026 | Making Radio Waves Useful                                                                                   | Vlad N1GNU     | 
 | Oct 8, 2026 | Terahertz Research Group                                                                                    | Dr. Josep M. Jornet |
 | Oct 15, 2026 | [Workshop](/workshop): Through-Hole Soldering (Hayden Hall, Rm. 503)                                       | Workshops Team |
@@ -47,7 +46,7 @@ We meet every Thursday at **7 PM** in our lab space in **Hayden Hall, Room 503**
 | Dec 10, 2025  | Elections; Brownie Bake-off                                                                               
 
 </div>
-
+<!-- | Oct 1, 2026  | TBD! (tentative: Parks on the Air &reg; ([POTA](https://parksontheair.com/)))                              | Steven KC1UBT | -->
 ---
 # Past Meetings and Schedules
 

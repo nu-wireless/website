@@ -22,7 +22,7 @@ Keep tables flush-left. Do not auto-format as HTML, or tables will break. -->
 
 # Workshops
 
-Every Monday at **7:00 PM in the Snell Library Classrooms (Basement), Room 012**, we run a workshop series covering carefully selected topics
+Every Monday at **7:00 PM in the Snell Library Classrooms (Basement), Room 031**, we run a workshop series covering carefully selected topics
 we believe students need for success in engineering, but that aren’t typically taught in class.
 
 <div class="note">
@@ -34,36 +34,35 @@ we believe students need for success in engineering, but that aren’t typically
 Below is this semester’s schedule, with dates and short descriptions. Absolutely no experience is required, and all students are welcome. Please sign up!
 
 
-<a href="https://forms.gle/kJefopqik9ikPc518" class="retro-button">SIGN UP FOR WORKSHOPS</a>
+<a href="https://forms.gle/nSphjAm3BXNDVga56" class="retro-button">SIGN UP FOR WORKSHOPS</a>
 
 ## This Semester's Schedule (Fall 2026)
 
 Miss a workshop? We'll likely run it again next semester. Check back here for updates!
+<div class="past-workshops">
+| Location                           : Snell Library Classrooms, Room 031 | Time : 7:00 PM |
 
-| Location | Time |
-|----------------------------|---------|
-| Snell Library Classrooms, Room 012 | 7:00 PM |
-
-| Day | Date | Topic |
-|-----|--------------|-------|
-| Monday | Sep 14, 2026 | Yagi Antenna Buid (Ham Radio Intro) |
-| Monday | Sep 21, 2026 | Schematic Capture (KiCad) |
-| Monday | Sep 28, 2026 | SPICE Circuit Simulation (LTspice) |
-| Monday | Oct 05, 2026 | PCB Design (KiCad) |
-| Thursday | Oct 15, 2026 | Intro to Soldering (Through-hole) |
-| Monday | Oct 19, 2026 | **Repeat** Intro to Soldering |
-| Monday | Oct 26, 2026 | Advanced Soldering (Surface-mount) |
-| Monday | Nov 02, 2026 | Bass Booster (Audio Circuits) |
-| Monday | Nov 09, 2026 | Tesla Coils |
-| Monday | Nov 16, 2026 | Embedded Design |
-| Monday | Nov 23, 2026 | Radio Transmitters |
-
+| Day                  | Date | Topic                                                                                                                                                                           |
+|----------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Monday               | Sep 14, 2026 | [Yagi Antenna Build (Ham Radio Intro)](https://docs.google.com/presentation/d/1384U589hcMwEYj0yTyEJV8JHAKVnVKyh/edit?usp=sharing&ouid=115728976708666725389&rtpof=true&sd=true) |
+| Monday               | Sep 21, 2026 | Schematic Capture (KiCad)                                                                                                                                                       |
+| Monday               | Sep 28, 2026 | SPICE Circuit Simulation (LTspice)                                                                                                                                              |
+| Monday               | Oct 05, 2026 | PCB Design (KiCad)                                                                                                                                                              |
+| Thursday  | Oct 15, 2026 | Intro to Soldering (Through-hole)                                                                                                                                               |
+| Monday               | Oct 19, 2026 | **Repeat** Intro to Soldering                                                                                                                                                   |
+| Monday               | Oct 26, 2026 | Advanced Soldering (Surface-mount)                                                                                                                                              |
+| Monday               | Nov 02, 2026 | Bass Booster (Audio Circuits)                                                                                                                                                   |
+| Monday               | Nov 09, 2026 | Tesla Coils                                                                                                                                                                     |
+| Monday               | Nov 16, 2026 | Embedded Design                                                                                                                                                                 |
+| Monday               | Nov 23, 2026 | Radio Transmitters                                                                                                                                                              |
+</div>
+Note that the October 15th workshop is being held in 503 Hayden Hall!
 ## Workshop Descriptions
 
 ### Tape Measure Yagi Antenna (Introduction to Amateur "Ham" Radio)
-Build a working directional antenna from PVC and tape measures! Learn the basics of radio waves, antenna design, and how
-to use your creation to make real on-air contacts. This serves as an excellent introduction to amateur radio and antenna
-design.
+Build a working directional antenna from PVC, tape measures, and coax! Learn the basics of radio waves, antenna design, 
+propagation patterns, and how to use your creation to make real on-air contacts. This serves as an excellent introduction
+to amateur radio and antenna design.
 
 ### Schematic Capture
 Turn your ideas into circuits with [KiCad](https://www.kicad.org/)! Learn how to draw a complete schematic, the first
@@ -73,8 +72,7 @@ leave the workshop having drawn a pre-engineered schematic for use in the PCB De
 ### SPICE Circuit Simulation (LTspice)
 Before solder touches a board, test it in software. Using your schematic from the previous workshop, simulate and
 analyze your circuit in a free SPICE-based circuit simulator,
-[LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html), to predict
-performance.
+[LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html), to predict performance.
 
 ### PCB Design (KiCad)
 This workshop will take you through the process of designing a printed circuit board. You'll learn about the different
@@ -82,28 +80,32 @@ types of component footprints, layers, routing, traces and more! No previous wor
 
 ### Introduction to Soldering (Through-hole)
 Learn an essential electrical engineering skill: soldering! We provide all of the tools, materials, and a custom
-instructional circuit that you will assemble and test! Uses the much easier to solder "through hole" components.
+instructional circuit that you will assemble and test! Uses the much easier to solder "through hole" components. Go home
+with a working *Schmitt Trigger Oscillator*!
 
 ### Advanced Soldering (Surface-mount)
 While through hole components may be good enough for hobby projects, most modern devices use SMD aka "surface-mount
 device" components. You will once again build a custom circuit, this time with SMD components!
 
-### Introduction to Git
-Version control made easy. Learn what [Git](https://git-scm.com/) is and how to use it. We will also teach you how to
-track changes, collaborate with others, and safeguard your work using both Git and [GitHub](https://github.com/).
+### Bass Booster
+Learn a little about analog audio! Build a small transistor-based frequency selective amplifier to test on whatever
+audio signals you feed it! Bring a device with a headphone jack!
 
-### LaTeX
-Learn [LaTeX](https://www.latex-project.org/) (pronounced "Lah-tech" or "Lay-tech"), the typesetting system that
-engineers, scientists, and academics use to create professional documents, papers, and presentations.
+### Tesla Coils
+Build the simplest version of a Tesla Coil! Powerful enough to light florescent bulbs, simple enough to understand
+each component in an hour. Learn a little about power circuity, resonators, transformers, and high voltage arc formation!
+Everyone goes home with a Tesla Coil! *Strong magnetic fields can be harmful to electronic implants*
 
 ### Embedded Development
-Embedded devices are everywhere today. In this workshop you will implement some simple code on a wireless club custom
-embedded board using a variety of protocols.
+Embedded devices are everywhere today. You may be familiar with Arduino, but in this workshop, learn bare-metal register
+manipulation for high speed designs and optimized control over your every bit in your microcontroller! No experience
+required.
 
-### Bare Metal Embedded Development on STM32
-Arduino isn't really used in industry, so what is? Well that would be the STM32 platform. We'll first learn the super
-nitty gritty using assembly to interface with familiar sensors and input devices, and then learn how to generate an
-embedded C HAL (hardware abstraction layer) for easier development work. No experience required!
+### Radio Transmitters (Bring Soldering Knowledge)
+Learn the ground-truth basics of why we use high frequency electromagnetic waves for communication, from a purely
+intuition-based perspective. Solder a simple through-hole AM radio for the VHF band which can be received by any VHF 
+radio/handheld! Extremely easy soldering must be done in this workshop, so attend an "Intro to Soldering" or learn how
+to solder through hole components before coming!
 
 # Past Workshops and Schedules
 
@@ -127,6 +129,28 @@ Use the accordions below to browse past semesters and explore what we’ve cover
   re-indent tables by 4 spaces. This breaks them, rendering them as
   code blocks instead of tables. Keep tables flush-left.
 -->
+
+<details open>
+    <summary><strong>Fall 2025</strong></summary>
+
+| Location                 | Time    |
+|--------------------------|---------|
+| Snell Basement, Room 012 | 7:00 PM |
+
+| Day | Date         | Topic                                                            |
+|-----|--------------|------------------------------------------------------------------|
+| Monday | Jan 26, 2026 | Tape Measure Yagi Antenna (Ham Radio Intro)                      |
+| Monday | Feb 2, 2026  | Schematic Capture                                                |
+| Monday | Feb 9, 2026  | SPICE Circuit Simulation (LTspice)                               |
+| Monday | Feb 16, 2026 | PCB Design (KiCad)                                               |
+| Monday | Feb 23, 2026 | **No Workshop (Holiday)**                                        |
+| **Thursday** | Mar 3, 2026  | Intro to Soldering (Through-hole) (**in Hayden Hall, Room 503**) |
+| Monday | Mar 9, 2026  | Intro to Soldering (Through-hole)                                |
+| Monday | Mar 16, 2026 | Advanced Soldering (Surface-mount)                               |
+| Monday | Mar 23, 2026 | Intro to Git                                                     |
+| Monday | Mar 30, 2026 | Embedded Design                                                  |
+
+</details open>
 
 <details open>
     <summary><strong>Fall 2025</strong></summary>

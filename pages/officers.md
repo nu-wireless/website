@@ -37,6 +37,7 @@ To arrange a visit, please email `info at nuwireless.org`. Extra advance notice 
 | Vice President | Vin Rossi, W2VIN | `vp at nuwireless.org` |
 | Treasurer | Ly Feng, W5LYF | `treasurer at nuwireless.org` |
 | Lab Manager | Sean Gustavson, KO6PGX | `lab at nuwireless.org` |
+| Lab Manager | Kaan Volkan, KQ4QFS | `lab at nuwireless.org` |
 | Workshop Organizer | Leo Norton, KF0PQB | `workshops at nuwireless.org` |
 | Workshop Organizer | Emile Sater | `workshops at nuwireless.org` |
 | Workshop Organizer | Vivaan Kaushal | `workshops at nuwireless.org` |
@@ -64,16 +65,16 @@ Below are previous officer boards by semester and year.
 
 | Position | Name | Email |
 |----------|------|-------|
-| President | Robert Halpern, KE2EGT |
-| Vice President | Vin Rossi, W2VIN |
-| Treasurer | Ly Feng, W5LYF |
+| President | Robert Halpern KE2EGT |
+| Vice President | Vin Rossi W2VIN |
+| Treasurer | Ly Feng W5LYF |
 | Lab Manager | Sean Gustavson (now KO6PGX) |
-| Workshop Organizer | Leo Norton, KF0PQB |
+| Workshop Organizer | Leo Norton KF0PQB |
 | Workshop Organizer | Emile Sater |
 | Workshop Organizer | Vivaan Kaushal |
-| Ham Guru | Steven Zhang, KC1UBT |
-| Ham Guru | Jayden Chen, KC1YXS |
-| Student Advisor | Vladyslav Aviedov, N1GNU |
+| Ham Guru | Steven Zhang KC1UBT |
+| Ham Guru | Jayden Chen KC1YXS |
+| Student Advisor | Vladyslav Aviedov N1GNU |
 
 <details open>
   <summary><strong>Spring, 2026</strong></summary>
@@ -86,9 +87,10 @@ Below are previous officer boards by semester and year.
 | Treasurer | Scott Abramson KC1WGF |
 | Lab Manager | Jayden Chen KC1YXS |
 | Workshop Organizer | Robert Halpern KE2EGT |
-| Workshop Organizer | Emile Sater N0CALL |
+| Workshop Organizer | Emile Sater |
 | Outreach Coordinator | Vin Rossi KO6HUI (now W2VIN) |
 | Ham Guru | Steven Zhang KC1UBT |
+| Student Advisor | Jonah Lefkoff K0RG |
 
 <details open>
   <summary><strong>Fall, 2025</strong></summary>
@@ -103,6 +105,7 @@ Below are previous officer boards by semester and year.
 | Workshop Organizer | Tyler Von Pervieux K0NX |
 | Workshop Organizer | Robert Halpern KE2EGT |
 | Outreach Coordinator | Vin Rossi KO6HUI |
+| Student Advisor | Jonah Lefkoff K0RG |
 
 <details open>
   <summary><strong>Summer 2, 2025</strong></summary>
@@ -113,7 +116,7 @@ Below are previous officer boards by semester and year.
 | Vice President | Faith Degawa KQ4YAU |
 | Treasurer | Maggie Heaney KC1TOQ |
 | Lab Manager | Jonah Lefkoff K0RG |
-| Workshop Lead | Muhammad Elarbi KC1WTC |
+| Workshop Organizer | Muhammad Elarbi KC1WTC |
 | Workshop Organizer | Tyler Von Pervieux K0NX |
 | Workshop Organizer | Robert Halpern KE2EGT |
 | Outreach Coordinator | Garrett Compston KW1RM |
@@ -130,7 +133,7 @@ Below are previous officer boards by semester and year.
 | Vice President | Faith Degawa KQ4YAU |
 | Treasurer | Maggie Heaney KC1TOQ |
 | Lab Manager | Leo Norton KF0PQB |
-| Workshop Lead | Muhammad Elarbi KC1WTC |
+| Workshop Organizer | Muhammad Elarbi KC1WTC |
 | Outreach Coordinator | Garrett Compston KW1RM |
 
 </details>
@@ -145,7 +148,7 @@ Below are previous officer boards by semester and year.
 | Vice President | Garrett Compston KW1RM
 | Treasurer | Jake Ginesin KC3UTS |
 | Lab Manager | Leo Norton KF0PQB |
-| Workshop Lead | Muhammad Elarbi |
+| Workshop Organizer | Muhammad Elarbi (now KC1WTC) |
 | Workshop Organizer | Maggie Heaney KC1TOQ |
 | Workshop Organizer | Vladyslav Aviedov N1GNU |
 | Ham Guru | Jacy Hoffmann KC1SZV|
@@ -162,7 +165,7 @@ Below are previous officer boards by semester and year.
 | Vice President | Garrett Compston KW1RM |
 | Treasurer | Jake Ginesin KC3UTS |
 | Lab Manager | Collin McKinley KC1TIZ |
-| Workshop Lead | Muhammad Elarbi |
+| Workshop Organizer | Muhammad Elarbi |
 | Workshop Organizer | Maggie Heaney KC1TOQ |
 | Workshop Organizer | Vladyslav Aviedov KC1TNB (now N1GNU) |
 | Ham Guru | Jacy Hoffmann KC1SZV|

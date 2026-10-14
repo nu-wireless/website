@@ -29,19 +29,20 @@ To arrange a visit, please email `info at nuwireless.org`. Extra advance notice 
 
 
 # Officer Board
-## Summer 2026
+## Fall 2026
 
 | Position | Name | Email |
 |----------|------|-------|
 | President | Robert Halpern, KE2EGT | `president at nuwireless.org` |
 | Vice President | Vin Rossi, W2VIN | `vp at nuwireless.org` |
-| Treasurer | Ly Feng, KJ5PQC | `treasurer at nuwireless.org` |
-| Lab Manager | Sean Gustavson | `lab at nuwireless.org` |
+| Treasurer | Ly Feng, W5LYF | `treasurer at nuwireless.org` |
+| Lab Manager | Sean Gustavson, KO6PGX | `lab at nuwireless.org` |
 | Workshop Organizer | Leo Norton, KF0PQB | `workshops at nuwireless.org` |
 | Workshop Organizer | Emile Sater | `workshops at nuwireless.org` |
 | Workshop Organizer | Vivaan Kaushal | `workshops at nuwireless.org` |
+| Outreach Coordinator | Aaron Berman, KC1YXR | `outreach at nuwireless.org` |
 | Ham Guru | Steven Zhang, KC1UBT | `ham at nuwireless.org` |
-| Ham Guru | Jayden Chen, KC1YXS | `ham at nuwireless.org` |
+| Student Advisor | Vladyslav Aviedov, N1GNU | `info at nuwireless.org` |
 
 ---
 
@@ -58,7 +59,21 @@ Below are previous officer boards by semester and year.
 </div>
 
 
+<details open>
+  <summary><strong>Summer, 2026</strong></summary>
 
+| Position | Name | Email |
+|----------|------|-------|
+| President | Robert Halpern, KE2EGT |
+| Vice President | Vin Rossi, W2VIN |
+| Treasurer | Ly Feng, W5LYF |
+| Lab Manager | Sean Gustavson (now KO6PGX) |
+| Workshop Organizer | Leo Norton, KF0PQB |
+| Workshop Organizer | Emile Sater |
+| Workshop Organizer | Vivaan Kaushal |
+| Ham Guru | Steven Zhang, KC1UBT |
+| Ham Guru | Jayden Chen, KC1YXS |
+| Student Advisor | Vladyslav Aviedov, N1GNU |
 
 <details open>
   <summary><strong>Spring, 2026</strong></summary>
@@ -74,9 +89,6 @@ Below are previous officer boards by semester and year.
 | Workshop Organizer | Emile Sater N0CALL |
 | Outreach Coordinator | Vin Rossi KO6HUI (now W2VIN) |
 | Ham Guru | Steven Zhang KC1UBT |
-
-
-
 
 <details open>
   <summary><strong>Fall, 2025</strong></summary>

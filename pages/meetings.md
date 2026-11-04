@@ -38,9 +38,9 @@ We meet every Thursday at **7 PM** in our lab space in **Hayden Hall, Room 503**
 | Oct 15, 2026 | [Workshop](/workshop): Through-Hole Soldering (Hayden Hall, Rm. 503)                                       | Workshops Team |
 | Oct 22, 2026 | Radio Astronomy (Telescopes & Balloons)                                                                    | Dr. Baris Altunkaynak |
 | Oct 29, 2026  | Ham Radio Halloween                                                                                       
-| Nov 5, 2026 | TBD! (tentative: Supercomputer Research)                                                                    | Kaan Volkan |
-| Nov 12, 2026 | TBD! (tentative: Meshtastic)                                                                               | Jayden KC1YXS |
-| Nov 19, 2026 | TBD! (tentative: Radio in Transit)                                                                         | Robert KE2EGT     | 
+| Nov 5, 2026 | Software Defined Radio, and Meshtastic                                                                      | Vin W2VIN, Jayden KC1YXS |
+| Nov 12, 2026 | Military Careers in RF                                                                                     | Pete Norton |
+| Nov 19, 2026 | FPGA Research for Wireless & IoT                                                                           | Dr. Miriam Leeser | 
 | Nov 26, 2026  | **Fall Break (Holiday)**                                                                                  
 | Dec 3, 2025 | Nominations; Showcase Showdown                                                                              | Club members! |
 | Dec 10, 2025  | Elections; Brownie Bake-off                                                                               
